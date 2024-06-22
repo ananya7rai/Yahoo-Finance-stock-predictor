@@ -12,7 +12,7 @@ I used TensorFlow's Sequential Model with LSTM and Dense layers for stock predic
 - - - -
 
 ### Method ###
--Employed machine learning algorithms such as linear regression, decisions trees, and neural networks to build the stock prediction model. 
+- Employed machine learning algorithms such as linear regression, decisions trees, and neural networks to build the stock prediction model. 
 - Incorporated features derived from historical price data and technical indicators as input variables.
 - Trained the model on historical stock data and evaluated its performance using appropriate metrics. 
 - - - -
