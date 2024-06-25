@@ -1,13 +1,13 @@
 # Stock Prediction Model #
-In this project, I designed and implemented a machine learning model for predicting the future value of stocks based on historical price data and market indicators. 
+In this project, We designed and implemented a machine learning model for predicting the future value of stocks based on historical price data and market indicators. 
 - - - -
 
 ### Dataset Details ###
-- Yahoo Finance - I used Yahoo Finance's dataset and the YFinance Python library for stock data. The dataset provides open, high, low, and close prices of every trade day for major listings on Nasdaq. I divided the dataset into train (65%) and test (35%) sets for predicting stock values.
+- Yahoo Finance - We used Yahoo Finance's dataset and the YFinance Python library for stock data. The dataset provides open, high, low, and close prices of every trade day for major listings on Nasdaq. We divided the dataset into train (65%) and test (35%) sets for predicting stock values.
 - - - -
 
 ### Proposed Architecture ###
-I used TensorFlow's Sequential Model with LSTM and Dense layers for stock prediction, focussing on Apple and Microsoft stocks.
+We used TensorFlow's Sequential Model with LSTM and Dense layers for stock prediction, focussing on Apple and Microsoft stocks.
 - - - -
 
 ### Method ###
