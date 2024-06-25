@@ -4,7 +4,6 @@ In this project, I designed and implemented a machine learning model for predict
 
 ### Dataset Details ###
 - Yahoo Finance - I used Yahoo Finance's dataset and the YFinance Python library for stock data. The dataset provides open, high, low, and close prices of every trade day for major listings on Nasdaq. I divided the dataset into train (65%) and test (35%) sets for predicting stock values.
-- Quandl - I used Python stock API 'Quandl' to fetch data regarding the stock market in a desired time span and create a dataset for the purpose of stock prediction. Quandl contains data in two fromats - Time-series and Table. I intended to make heavy use of the table format to extract information regarding different stocks and training the model based on it.
 - - - -
 
 ### Proposed Architecture ###
